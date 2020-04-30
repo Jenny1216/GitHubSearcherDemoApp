@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:GitHubSearcherDemoApp.xcodeproj">
+      location = "self:/Users/jinisha/Desktop/GitHubSearcherDemoApp/GitHubSearcherDemoApp.xcodeproj">
    </FileRef>
 </Workspace>
